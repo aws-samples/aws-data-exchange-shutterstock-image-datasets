@@ -1,6 +1,6 @@
 ## Using Shutterstock's image datasets to train your computer vision models
 
-Welcome! This repository contains the Amazon SageMaker notebook code used in the blog post [**Using Shutterstock's image datasets to train your computer vision models**](https://aws.amazon.com/data-exchange/).
+Welcome! This repository contains the Amazon SageMaker notebook code used in the blog post [**Using Shutterstock's image datasets to train your computer vision models**](https://aws.amazon.com/blogs/awsmarketplace/using-shutterstocks-image-datasets-to-train-your-computer-vision-models/).
 
 
 For this example, we use the Free Sample: Images & Metadata of “Whole Foods” Shoppers dataset from Shutterstock’s Image Datasets to demonstrate how to train a multi-label image classification model using Shutterstock’s prelabeled image assets. This dataset can be found in the [AWS Data Exchange](https://aws.amazon.com/data-exchange/) and contains images of Whole Foods shoppers. Each image is tagged with 7-50 keywords describing what is seen in the image. 
