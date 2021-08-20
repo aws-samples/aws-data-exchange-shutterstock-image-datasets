@@ -6,7 +6,7 @@ Welcome! This repository contains the Amazon SageMaker notebook code used in the
 For this example, we use the Free Sample: Images & Metadata of “Whole Foods” Shoppers dataset from Shutterstock’s Image Datasets to demonstrate how to train a multi-label image classification model using Shutterstock’s prelabeled image assets. This dataset can be found in the [AWS Data Exchange](https://aws.amazon.com/data-exchange/) and contains images of Whole Foods shoppers. Each image is tagged with 7-50 keywords describing what is seen in the image. 
 
 
-You can get started using this notebook by following the steps outlined in [this blog](https://aws.amazon.com/data-exchange/). 
+You can get started using this notebook by following the steps outlined in [this blog](https://aws.amazon.com/blogs/awsmarketplace/using-shutterstocks-image-datasets-to-train-your-computer-vision-models/). 
 
 At a high level, setup involves these 4 steps:
 
